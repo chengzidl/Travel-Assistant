@@ -1,0 +1,1 @@
+streamlit run web_demo.py model 
