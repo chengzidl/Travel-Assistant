@@ -2,7 +2,8 @@
 
 ## 📖 项目概述
 &emsp;&emsp; 旅行小助手✈️是基于 [InternLM2-chat-7b](https://github.com/InternLM/InternLM.git) 进行LoRA微调而得，数据集利用 [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) 从小红书/微博/抖音平台爬取。
-&emsp;&emsp; 旅行小助手整合了网上的旅行攻略、美食景点、旅行注意事项等，以轻松活泼的对话方式给游客答疑解惑。当你在为即将到来的旅行做攻略，焦头烂额时，不妨试试这个小助手吧～
+
+&emsp;&emsp; 旅行小助手✈️整合了网上的旅行攻略、美食景点、旅行注意事项等，以轻松活泼的对话方式给游客答疑解惑。当你在为即将到来的旅行做攻略，焦头烂额时，不妨试试这个小助手吧～
 
 ### 🏷️ 项目架构图
 <p align="center">
